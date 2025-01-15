@@ -1,4 +1,4 @@
-Hi, I'm Herbert F. Mendoza (@KuyaBanuvski)
+Hi, I'm Herbert F. Mendoza (@LogicBiotic)
 
 About Me:
 I have a deep interest in biology, programming, and game development. Currently, I am focused on learning the intricacies of coding and improving my skills in software development.
